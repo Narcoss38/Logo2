@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Logo2</string>
+    <string name="action_about">About</string>
+    <string name="b1">Lollipop</string>
+    <string name="b2">KitKat</string>
+    <string name="b3">Jelly Bean</string>
+    <string name="b4">Ice Cream Sandwich</string>
+    <string name="b5">Honeycomb</string>
+    <string name="b6">Gingerbread</string>
+    <string name="txt1">:: Android 5.0 ::\nAPI level 21</string>
+    <string name="txt2">:: Android 4.4 ::\nAPI level 20</string>
+    <string name="txt3">:: Android 4.1-4.2-4.3 ::\nAPI level 16-17-18</string>
+    <string name="txt4">:: Android 4.0 ::\nAPI level 14-15</string>
+    <string name="txt5">:: Android 3.0-3.1-3.2 ::\nAPI level 11-12-13</string>
+    <string name="txt6">:: Android 2.3 ::\nAPI level 9-10</string>
+    <string name="about_message">This is a sample application using different widget and nested layouts</string>
+</resources>
